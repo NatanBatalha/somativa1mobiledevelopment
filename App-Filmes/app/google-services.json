@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016905859609",
+    "project_id": "app-filmes-trab-mobile-dev-fac",
+    "storage_bucket": "app-filmes-trab-mobile-dev-fac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016905859609:android:b151cb008824af086de088",
+        "android_client_info": {
+          "package_name": "com.trab_facul.app_filmes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_HwOsEuXn7un2OIFPOeAX5694X4Imolw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
